@@ -91,19 +91,14 @@
   <a href="https://www.leetcode.com/sharif2022" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
 </p>
 ---
-## Hi there 👋
+<!-- ===================== FOOTER ===================== -->
 
-<!--
-**mirfanaslam/mirfanaslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Footer](https://capsule-render.vercel.app/api?type=waving\&height=100\&section=footer\&text=Thank%20You%20For%20Visiting!\&fontSize=35\&fontColor=ffffff\&animation=twinkling\&color=gradient\&customColorList=6,11,20,24,30)
 
-Here are some ideas to get you started:
+<p align="center">
+  Made with 💙 by <a href="https://github.com/mirfanaslam">Muhammad Irfan Aslam</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sub>Last Updated: March 2026</sub>
+</p>
