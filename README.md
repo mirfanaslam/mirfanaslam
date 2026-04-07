@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
 * **1 :** 
 * **2 :** 
@@ -46,13 +46,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharif2023&show_icons=true&theme=radical&v=1" alt="Sharif2023 Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharif2023&show_icons=true&layout=compact&theme=radical&v=1" alt="Top Languages" />
-</p>
 
 <br/>
 
@@ -71,7 +64,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/mirfanaslam" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
----
+
 <!-- ===================== FOOTER ===================== -->
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving\&height=100\&section=footer\&text=Thank%20You%20For%20Visiting!\&fontSize=35\&fontColor=ffffff\&animation=twinkling\&color=gradient\&customColorList=6,11,20,24,30)
