@@ -19,39 +19,23 @@
 
 ### 🚀 Featured Projects
 
-* **Amar Recipe:** A full-stack recipe platform featuring an advanced discovery engine and a community-driven submission pipeline. *(React 19, Tailwind CSS 4, PHP 8.2, MySQL, PostgreSQL)*
-* **StudyNest:** A group study platform for UIU students featuring course resource sharing, real-time video rooms, and an AI file checker. *(React, Tailwind CSS, PHP, Python/Flask, Node.js)*
-* **UIU Supplements:** A real-time marketplace and community hub for UIU students including a part-time job portal and room rental services. *(PHP, MySQL, Vanilla JS, Bootstrap 5)*
-* **UIU Healthcare:** An integrated health portal connecting doctors and students with appointments and an AI symptom bot. *(PHP, MySQL, JavaScript, Bootstrap)*
+* **1 :** 
+* **2 :** 
+* **3 :** 
+* **4 :** 
 
 ---
 
 ### 🔬 Research Works (In Progress)
 
-* 📊 *Comparative Analysis of Energy Efficiency in Modern Frontend Frameworks: A Green Computing Perspective*
-* 🧠 *Evaluating the Impact of Sketch and Voice Inputs on Divergent Thinking in Gen AI*
-* 💻 *Real-Time Anxiety Detection and Intervention System for Programmers*
+* 📊 *1 *
+* 🧠 *2 *
+* 💻 *3 *
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech & Tools
 
-**Frontend:** <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-
-**Backend & Database:** <br/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 **Tools & Others:** <br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
