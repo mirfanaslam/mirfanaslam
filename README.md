@@ -2,6 +2,11 @@
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*L_QoAG863l8QvqxpNyBiqw.gif" alt="Header Banner" width="800" />
 </div>
+<div align="center">
+  <img src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/devops-animation-gif-download-13824746.mp4?h=240" alt="Header Banner" width="800" />
+</div>
+
+
 
 <h1 align="center">Hi 👋, I'm Muhammad Irfan Aslam</h1>
 <h3 align="center"> CLOUD INFRA / DEVOPS / MLOPS / AGENTOPS 💻 | Engineer </h3>
