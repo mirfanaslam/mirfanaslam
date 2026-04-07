@@ -69,10 +69,7 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="https://fb.com/sharif.me2018" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://instagram.com/sharif_islam10" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.youtube.com/@SHARIFsCODECORNER" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.leetcode.com/sharif2022" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://linkedin.com/in/mirfanaslam" target="_blank"><img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </p>
 ---
 <!-- ===================== FOOTER ===================== -->
