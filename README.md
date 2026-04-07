@@ -4,57 +4,14 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Muhammad Irfan Aslam</h1>
-<h3 align="center">Cloud Infra/Devops/AgentOps 💻 | Engineer </h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharif2023&label=Profile%20views&color=0e75b6&style=flat" alt="sharif2023" />
-</p>
+<h3 align="center"> CLOUD INFRA / DEVOPS / MLOPS / AGENTOPS 💻 | Engineer </h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" alt="Web Developer illustration" />
-
-> **Crafting scalable web applications and exploring the future of Human-Computer Interaction.**
-
-I am a passionate **Full-Stack Web Developer** and a **Computer Science & Engineering student at United International University (UIU)** in Dhaka. I specialize in bridging the gap between elegant user interfaces and robust backend architectures, with a strong focus on the **MERN stack** and **PHP/Laravel** ecosystems.
-
-Beyond building software, I am deeply involved in academic research, currently investigating **Green Computing** within frontend frameworks and exploring how Gen AI impacts divergent thinking. Whether I am meticulously designing a database schema, exploring advanced software testing techniques, or obsessing over typography and clean UI design, I am driven by building efficient, user-centric solutions.
-
 <br>
 
-<table align="left">
-  <tr>
-    <td width="50%">
-      <b>🔭 What I'm building:</b><br>
-      <a href="https://github.com/Sharif2023">Amar Recipe</a> (Full-stack platform) & <a href="https://github.com/Sharif2023/StudyNest.git">StudyNest</a>
-    </td>
-    <td width="50%">
-      <b>🔬 What I'm researching:</b><br>
-      Energy efficiency in Web Frameworks & HCI
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>🌱 What I'm learning:</b><br>
-      Advanced System Architecture & Software Testing Concepts
-    </td>
-    <td width="50%">
-      <b>💡 What I'm exploring:</b><br>
-      UI/UX Prototyping in Figma & Ubuntu/Linux Administration
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <b>💬 Ask me about:</b><br>
-      React, Laravel, Tailwind CSS, Typography, or Turkish Culture!
-    </td>
-    <td width="50%">
-      <b>📫 How to reach me:</b><br>
-      <a href="mailto:sharifislam0505@gmail.com">sharifislam0505@gmail.com</a>
-    </td>
-  </tr>
-</table>
 
 <br clear="both">
 
